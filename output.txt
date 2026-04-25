@@ -1,4 +1,4 @@
-AI is powerful
+git add .AI is powerful
 ---
 Python is easy
 ---
