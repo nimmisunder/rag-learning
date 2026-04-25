@@ -1,0 +1,6 @@
+AI is powerful
+---
+Python is easy
+---
+RAG helps AI give better answers
+---
